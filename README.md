@@ -1,1 +1,8 @@
-# aa
+ERC20
+0xebda0821062b597d24b8d4bf74995ce6891fe086
+
+Solana
+DD76QBAuaMZbVhTpxFVrTGNzLG9Fg2WiLhTgEauSZ4qN
+
+Tron
+TVuyV4SeCLjUGd8ictnZvnPPaBJPaiLrCt
